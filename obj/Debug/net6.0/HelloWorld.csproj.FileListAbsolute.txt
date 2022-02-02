@@ -1,0 +1,15 @@
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\Ete cuccok\Official Stuff\Projects\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
